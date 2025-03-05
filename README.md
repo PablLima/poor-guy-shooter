@@ -1,6 +1,6 @@
 # Multiplayer 3D Ball Shooter
 
-A 3D multiplayer game built with Three.js and Socket.io where players control balls that can move, jump, and shoot. Players can die when hit by bullets and respawn after a short delay.
+A 3D multiplayer game built with Three.js and Socket.io where players control balls that can move, jump, and shoot. Players can die when hit by bullets and respawn after a short delay. Made on a vibe night by Pablo Lima and Pedro Zamagna.
 
 ## Features
 
